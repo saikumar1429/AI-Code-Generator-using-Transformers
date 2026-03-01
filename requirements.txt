@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+accelerate
+# Optional but recommended for faster loading if bitsandbytes is used, though not explicitly in code yet
